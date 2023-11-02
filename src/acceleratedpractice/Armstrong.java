@@ -16,6 +16,8 @@ public class Armstrong {
 		}
 		else {
 			System.out.println(num+ "is not a armstrong");
+			System.out.println("naveen is a human");
+			System.out.println("jack is a dog");
 		}
 	}
 
